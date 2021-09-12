@@ -7,6 +7,7 @@ Welcome to Life Simulator, where you are stuck in a endless loop of "life" befor
 ## Where can I find the game
 
 [Life-Simulator](https://chcardoz.github.io/life-simulator/)
+If you want to reset the game state, just navigate to the welcome screen and all the variables will be resetted. 
 
 ## Graph diagram
 
